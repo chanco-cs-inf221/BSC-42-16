@@ -1,0 +1,72 @@
+body{
+    border:3px black solid;
+    padding: 100px;
+    background-color:cleam-white;
+    background-image: url(images/jo.jpg);
+}
+header nav{
+    float: right;
+    display: inline;
+    padding: 10px;
+    margin-top:30px;
+    margin-right:100px;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+}
+header a{
+      color: white;
+      background-color: red;
+ }
+header{
+    padding: 15px;
+    border: black red;
+    border: solid;
+    background-color: grey;
+}
+img{
+    border-radius: 5%;
+}
+h2{
+    text-align: center;
+    color:  white;
+}
+.projects{
+    width: 98%;
+    background: pink;
+    margin: 23px auto;
+    overflow: hidden;
+    border: solid;
+    padding: 10px;
+
+}
+.projects ul{
+    padding: 0px;
+    border: black solid auto;
+}
+.projects ul li{
+    margin:  42px 42px 0px 54px;
+    height: 250px;
+    list-style: none;
+    float: left;
+    border: solid;
+    width:20%;
+    background: white;
+
+}
+.expri{
+    border:4px  black solid;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+ }
+p{	display : flex;
+	height : 50px;
+	width : 50px;
+	border : 1px solid black;
+}
+Q{	display : flex;
+
+	
+
+}
